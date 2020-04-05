@@ -1,0 +1,12 @@
+The user visits a website with the COVID-19 chatbot and asks a question.
+The Node.js web server calls Watson Assistant hosted in IBM Cloud.
+Watson Assistant uses natural language understanding and machine learning to extract entities and intents of the user question.
+The COVID-19 FAQ is sourced from trusted CDC data.
+Watson Assistant invokes an OpenWhisk open source-powered IBM Cloud Function.
+IBM Cloud Function calls Watson Discovery running in IBM Cloud.
+Watson Discovery scans news articles and responds with relevant articles.
+Watson Assistant invokes an OpenWhisk open source powered IBM Cloud Function.
+IBM Cloud Function calls the COVID-19 API to get statistics.
+Watson Assistant replies to the user inquiry.
+The Node.js web server displays the chat answer to the user.
+
