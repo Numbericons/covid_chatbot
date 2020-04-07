@@ -1,0 +1,9 @@
+1. Aggregate website*
+    1. Content
+        1. Twitter
+            1. https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update
+            2. https://developer.twitter.com/en/docs/twitter-for-websites/overview
+        2. Chatbot
+        3. Youtube?
+        4. http://www.endlessmedical.com/APIDemo
+2. Dashboard Website
